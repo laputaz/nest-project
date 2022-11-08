@@ -77,3 +77,7 @@ Nest is [MIT licensed](LICENSE).
 
 鉴权 - http://www.dve2.com/t/61
 全局守卫排除制定路由 - https://dev.to/dannypule/exclude-route-from-nest-js-authgaurd-h0
+
+
+## 生命周期
+![生命周期](./life-cycle.png)
